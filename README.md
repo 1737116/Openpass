@@ -4,6 +4,11 @@
 
 这是一个基于Flutter开发的密码管理项目，，80%以上的代码由AI辅助开发完成，主要功能代码由AI生成并经过人工审核优化。
 
+## 示例图
+
+![示例图片](.assets/screenshot_mo_list.png)
+![示例图片](.assets/screenshot_pc_edit.png)
+
 ### 项目特点
 
 - 使用keepass文件做存储，所以安全性基本等同于keepass
