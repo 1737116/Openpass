@@ -61,7 +61,7 @@ OpenPass provides a comprehensive password management solution, with main featur
 
 ## 示例图
 
-![示例图片](.assets/screenshot_mo_list.png)
+![示例图片](.assets/screenshot_pc_item.png)
 ![示例图片](.assets/screenshot_pc_edit.png)
 
 ### 项目特点
